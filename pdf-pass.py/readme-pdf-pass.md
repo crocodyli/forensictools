@@ -8,3 +8,7 @@ After decrypting the data, the PDF will present a HASH different from the origin
 
 Example:
 YwmPFaJ7lkuq.pdf (md5: F2CD59643FB4FAFEC66F50833F637C48) converted to file without password: file_without_password.pdf (md5 312B625A05096803EDBCDCC5C5EF8C52 ).
+
+For this script, you need to install the pip dependency.
+
+"pip install PyPDF2".
