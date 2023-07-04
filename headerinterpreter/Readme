@@ -1,0 +1,9 @@
+This script performs email header parsing automation on the spot it is running when there is no internet connectivity.
+
+In short, the script performs header analysis looking for data related to: From, To, Subject, Date, Message-ID, Return-Path, X-Sender-IP and Reply-to-display-name, Reply-to, Bcc, To-display-name, Return-path, From-domain, From-display-name, Eml, Email-body, Cc-display-name, Cc, Bcc-display-name, Thread-index, Send-date, User-agent, Attachment, Received-header-ip, Received-header-hostname, Mime-boundary, Ip-src, Header and X-mailer.
+
+This was the first version released, it can be added and more options for analysis in headers will be added, but it already serves as a sorting for the headers.
+
+It presents the option to select the output in JSON or TXT.
+
+It is not necessary to run at administrator level.
